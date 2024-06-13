@@ -1,0 +1,6 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "debug.terminal.clearBeforeReusing": true,
+    "accessibility.verbosity.terminal": false,
+    "editor.unusualLineTerminators": "auto"
+}
