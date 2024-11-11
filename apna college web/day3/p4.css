@@ -1,0 +1,65 @@
+/* /* *{
+font-family: Arial, Helvetica, sans-serif;
+background-color: aqua;
+
+} */
+ /* h3{
+    color: purple;
+ } */
+h1,h3{
+    color: #b92b27;
+}
+#login{
+    background-color:aqua;
+
+}
+#signup{
+    background-color: red;
+    color: white;
+}
+.follow{
+
+}
+.upvote{
+background-color: green;
+}
+/* descendant selector */
+p a{
+   background-color: yellow;
+    color: rgb(237, 14, 237);
+}
+ul li{
+    color: aqua; 
+    background-color: azure;
+}
+/* sibling  */
+p+h3 {
+ text-decoration: underline;
+}
+.upvote + button{
+    background-color:cornflowerblue ;
+    color:darkblue ;
+} 
+/* child combinator */
+div > input{
+background-color: rgb(110, 204, 216);
+}
+/* attribute selecter */
+
+input[type ="text"]{
+    color: red;
+}
+input[type="password"]{
+    color:green;}
+input[type]{
+    background-color: ghostwhite;
+} */
+h1{
+    color: pink;
+}
+#greet{
+    color: yellow;
+}
+.myclass{
+    color: brown;
+}
