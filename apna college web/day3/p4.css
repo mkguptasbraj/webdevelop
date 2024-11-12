@@ -81,3 +81,9 @@ input[type="radio"]:checked + label {
     color: red;
     font-weight: 900;
 }
+p::first-line{
+    color: red;
+}
+p::selection{
+    background-color: #bcbc3b58;
+}
